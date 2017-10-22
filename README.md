@@ -1,5 +1,5 @@
 # DCAS Sim
-Simulation of a drone collision avoidance system (DCAS) using a 2 dimensional ascii plane
+Simulation of a Drone Collision Avoidance System (DCAS) Using a 2-D ASCII Plane
 
 ---
 
